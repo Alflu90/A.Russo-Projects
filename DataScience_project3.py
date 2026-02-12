@@ -24,7 +24,7 @@ from pathlib import Path
 import json
 import urllib.request
 
-# Impostazione stile grafici statici (opzionale ma consigliata)
+# Impostazione stile grafici statici
 sns.set(style="whitegrid")
 
 # Pathlib, per evitare errori di percorso
@@ -205,3 +205,4 @@ Possibili estensioni future:
 - analisi di trend stagionali
 - previsione delle vendite
 """
+
